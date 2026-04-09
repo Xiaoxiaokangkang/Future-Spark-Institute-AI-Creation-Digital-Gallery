@@ -1,6 +1,6 @@
-# Future-Spark-Institute-AI-Creation-Digital-Gallery
+# Future-Spark-Institute-AI-Creation-Digital-Gallery（未来火种研究院 · AI造物数字展厅）
 # **一、项目名称、目标与背景**
-
+                 
 ## **项目名称：**
 
 未来火种研究院 · AI造物数字展厅
