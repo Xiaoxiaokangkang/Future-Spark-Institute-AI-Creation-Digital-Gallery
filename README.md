@@ -74,7 +74,7 @@
 
 本项目采用 "本地大模型 + RAG 知识增强 + 三维虚拟展厅" 的双系统融合架构，全部运行于 NVIDIA DGX Spark（GB10）本地，不依赖任何云端 API，数据全程本地处理，保障展厅运行的离线性与数据隐私安全。
 
-![](https://ecn0iff8oloa.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDZiNjFmZWMwMjA3OTU4YWU5ZDJkYzJjM2Q4NTQ0MmRfQ2tzYWdDcExIQWZ5VVJoSkpPdnk1ODZua1VMTWQ2bUVfVG9rZW46UkZNemJBZ0hvb0N6bld4NTBlWWNyMEJobmJkXzE3NzU3MjczNTk6MTc3NTczMDk1OV9WNA)
+![](![项目演示图](https://github.com/xiaoxiaokangkang/Future-Spark-Institute-AI-Creation-Digital-Gallery/raw/main/Architecture Overview.png))
 
 ## **3.2 AI 智能问答系统（RAG 模块）**
 
